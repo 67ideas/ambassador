@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://getambassador.com"
   s.summary     = %q{A simple Ruby wrapper for the Ambassador API}
   s.description = %q{The Ambassador API exposes RESTful URLs that return data in either XML or JSON. Use this gem to quickly make requests to their service.}
+  s.add_dependency 'httparty'
 
   s.rubyforge_project = "ambassador"
 
