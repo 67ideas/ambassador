@@ -65,7 +65,7 @@ Installing the latest official release is as simple as:
 Or, if you're using Rails, add it to your Gemfile:
 
 ``` ruby
-    gem 'ambassador'
+gem 'ambassador'
 ```
 
 ## Related Resources
