@@ -9,10 +9,10 @@ This gem provides an easy way to interface with the [Ambassador API](https://get
 ## Installation
 
 Installing the latest official release is as simple as:
-  gem install ambassador
+    gem install ambassador
 
 Or, if you're using Rails, add it to your Gemfile:
-  gem 'ambassador'
+    gem 'ambassador'
 
 ## Related Resources
 
